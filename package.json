@@ -19,8 +19,6 @@
     "ipostbuild": "cd dist && yarn",
     "watch": "babel functions --out-dir dist --ignore functions/node_modules --watch",
     "buildes5": "babel --plugins async-to-promises functions --out-dir dist --ignore functions/node_modules"
-
-    
   },
   "dependencies": {
     "babel-plugin-async-to-promises": "^1.0.5",
