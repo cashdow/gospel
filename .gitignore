@@ -27,8 +27,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # custom search credential
-gospel-kakao-d7f52216c39d.json
-gospel.json
+#gospel-kakao-d7f52216c39d.json
+#gospel.json
 =======
 # Logs
 logs

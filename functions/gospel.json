@@ -1,0 +1,16 @@
+{
+  "search": {
+    "cx_des": "The custom search engine ID",
+    "cx": "010614000388907958840:fi3d8gnj0ma",
+    "key_des": "project api key",
+    "key": "AIzaSyD6ffGTY1fGv1WO4bwhznnuRnw7xQf7x2k"
+  },
+  "dialogflow": {
+    "product_id_des": "dialogflow api agent project id",
+    "product_id": "gospel-kakao",
+    "credential_file_des" : "dialogflow credential json file",
+    "credential" : "./gospel-kakao-d7f52216c39d.json",
+    "sessionId_des": "session id default value. after using this value, should use kakao user-key",
+    "sessionId": "6ac7bd60-96a7-11e8-aaf1-2be61153eaa1"
+  }
+}

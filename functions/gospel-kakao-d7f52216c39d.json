@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gospel-kakao",
+  "private_key_id": "d7f52216c39de21580ad914e950e4a47d93c2476",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwX2F8uuK0s0BV\n7YHWcmm3bPaDfwHIP2GotIERrYQfeHm/vI5mUZcT6X2k9tzRpXyq+WMFnFWBb53c\nf+VK9Nuh08gC2LsTLu6DtLPItqwsxb9c80OPhgKwcZV13EE+HPp5vSa745BundlP\nPC08FZhPJLeha9sUi1sZxzRUFLSgxRm1H757V0BI/+2a13ZTtquxuaDCybRtNUri\nHq+OyD/rwQV8eZKz1IjMoDwc3oyeUY88bDyvdRlfQgjl7SX+/j1nLZTcYvcjN0aK\nCVe06VO8E3SPEQSzQw1OfadKPpzZPdPvX8ANi6h4e/x6ZMlLGoHLyyfkDyO4r3bA\nWbS8sFOzAgMBAAECggEAUKdVa9YEjRC5l3HUoY3RlT1BX7GpTXrafG0K5twb4s5T\nkqA12ElwVn08ZT80jLRqFb+UjkDHAzlZDbf40XW2qEKyIMceiW+5R8ZPPrZ2dsT5\nNRbTauMkAK74Y5zUwwQ6cIhUmbA/YK5TbT3+C49uhqaqSKmLVlJB10B2yApt7WRg\n+eWomS6Im2IaeYwTS+4lMjDIlACCwP8ogIjvhGK73S97HIpp9ONSapylRIxr6k5b\n0VZsvLl/q7AYi/T14b/jS45V5yN3JAStQPtgmNhFjFgyHEZm3yleCKI2OHph3EKS\nSc+YndbTEpVfpz4XV3VteZx8Mnrd5mO8qnTnzDcdDQKBgQDwtifg9gNs5rERfoNk\n8HvQ25usi3020phPqWxTenoDeZKIPNVnAySQXGdmMgP5v2ImRGWvI4dm2ElNJPre\nhmhBuFhLpQq182F4fXufiG7eykuVQPlfXD2R3Ma3kvOb5ffRc2+sCDZpU9qg6g7q\n2xJEaGXsmZlNlUk5tFEypyjgzwKBgQC7kxtlWDLm/jCFD9tLLbgLqfnvK2UNEBRb\nJYzhkjvyDeU2mgYvok8M1T94Mm4WDHUhRz4AtowA0l++bmETJj4nWr+piCy59VQD\n4A2GQJZeZ8UBvyifMprQ/PxfFc89Y1uvRegAmeIqQjY2jw1SIVqHpvi/5tamAY8a\nXni9Umvv3QKBgQCs1v8Xh066WYN3PlJ2nj8pnybO5HIKdXksakkAQAdwi1DuRlAt\nYZJVniQYu30jTYraU254LZjB/jfUDuOb+QLPfeDYoC9qqtGoROIJkVua2cMf7sGg\n+Yi0PcTqd7g4jw489RiQfG0lgDKSLL59YMRjHlthYoEztigYKSPMrT6q/QKBgAI2\nYPtYB/mrg9z96+M+Hc6daaJFi8KUrvjIP5olhGl9enejZ3FGY9JN7Zq4VY4TBYqn\n8XZGsO4NjS2M1b5JFDCYpGwWfBiRaTVGfkJYHq3sYWl83LjL+wF+CmgAtNoPgvRV\nScBAEGfZMhSAqXKPjCbPdF2nFl8M46g29wucnkNNAoGAF6HRen13+8J0bvOHO3bg\nPweB9QCm2r/EWpfRE03tXTINPp7KINS+bBDgScFC9omj0qVe2qXWOE1t6luP3uhx\nz8NSt/aYTwZzro03PUGmkxxBkz9gAfbjv/Rbv/E6ZXdf/8+/OLtf7GJNtpJnNAIc\nvI25ZjnU7Ec9QUPLwkNzQ9k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ktdjrr@gospel-kakao.iam.gserviceaccount.com",
+  "client_id": "110347963332834300064",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ktdjrr%40gospel-kakao.iam.gserviceaccount.com"
+}
